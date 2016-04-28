@@ -8,7 +8,7 @@
 
 ### End of Module Assessment
 
-* [GitHub URL](https://github.com/slota/final)
+* [GitHub URL](https://github.com/slota/final
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/real_time.markdown)
 
 ### Scores:
@@ -34,8 +34,6 @@ In this project, we (Shannon Paige and John Slota) recreated Space Invaders. I l
 
 Shannon Paige Feedback:
 
-* Slota, Slota, Slota. What can be said about the man, the myth, the legend. When Mod 4 started, I found myself getting overly stressed, so when I realized we could pick partners for Game Time, I knew I had to work with Slota. He is the only person at Turing who ALWAYS has a smile on his face, and can always make me laugh. Since we had paired together during Little Shop, I knew we worked well together. We have a perfect balance, because he keeps me from getting to serious and I keep him focused. I joke that I’m just going to follow Slota around, but I really would love it if we ended up working together. I am blessed to have been in two cohorts with this crazy crazy dude.
-
 Edgar Duran Feedback: 
 
 * Slota has always been a great resource for me to bounce ideas off or when I am having trouble grasping a concept. I have frequently approached him when I am stuck on a problem after talking it out and receiving feedback from Slota I always leave with an answer or approach to solving a problem. But, perhaps most notably, having Slota as a team mate and friend has been on of the great gems throughout my career at Turing. We have been through much together and I feel privileged to call him my friend. I know that wherever he ends up he will find success because of his skills, positive attitude, and overall awesome character. Thanks for the memories, my friend.
@@ -48,6 +46,9 @@ Beth Sebian:
 
 * Feedback for portfolios: John's been a treat to work with in Pahlka posse and share a cohort with these past two modules. He is a genuine, easy-to-get-along-with guy, who strikes a nice balance of nerdiness about our work and high standards where it matters with a lightness that makes him fun and enjoyable to work with. I'm excited to be in this field in large part because of the opportunities I'll have to work with people like John.
 
+Jordan Lawler
+
+* "I had the privilage of working with Uncle-Slota on Refactor Tractor. For those of you who do not know what refactor-tractor is, it is on of the most grueling projects here at Turing. I would have not made it throug without Slota's detirmination, good spirit, and insight into how to not pass too many arguments into a javascript function. Everytime we would hit a brick wall, I would channel my inner 'lets gooooooo' and we would push through.  When it was all said and done, our pull request to the refactor tractor lesson was so good, Meeka merged it without even knowing it. I think she thought it was written by an instructor it was so perfect."
 
 #### Individual Projects :
 
